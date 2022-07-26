@@ -1,4 +1,4 @@
-# Kronemer-et-al_2022
+# Kronemer-et-al-2022
 
 This includes the code files used for the analysis "The major brain networks of human visual consciousness" - Kronemer et al., 2022.
 
