@@ -8,7 +8,7 @@ Summary: The percent change BOLD timecourses for the average of all voxels withi
 
 Figure 6G, H, I, and J
 
-Summary: The percent change BOLD timecourse of selected ROIs report vs no-report conditions for voxels found within the k-means clusters DAS, TPN, and DMN.
+Summary: The percent change BOLD timecourse of selected ROIs report versus no-report conditions for voxels found within the k-means clusters DAS, TPN, and DMN.
 
 Figure 6K
 
