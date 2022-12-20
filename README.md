@@ -6,4 +6,4 @@ This repository includes the analysis codes implemented for the main figures in 
 A detailed description of all methods and analyses are given in the Methods section of the main manuscript and Supplementary Information. If you have further questions regarding this paper and analyses, we encourage you to contact the corresponding author: Dr. Hal Blumenfeld (hal.blumenfeld@yale.edu)
 
 # Data
-Source data for Kronemer et al., Nat Commun, 2022 are publicly available from http://kronemer-blumenfeld-data.yale.edu
+Source data for Kronemer et al., Nature Communications, 2022 are publicly available from http://kronemer-blumenfeld-data.yale.edu
