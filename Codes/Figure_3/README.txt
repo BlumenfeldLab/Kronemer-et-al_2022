@@ -13,4 +13,4 @@ Statistically significant voxel t-values by spatiotemporal cluster-based permuta
 Summary:
 Conjunction regions for positive (green) and negative (violet) voxels comparing statistically significant report and no-report conditions of perceived minus not perceived fMRI dynamics from Figure 3A, B, C, and D. 
 
-Final visualization is made with MRIcron (https://www.nitrc.org/projects/mricron).
+Final visualizations are made with MRIcron (https://www.nitrc.org/projects/mricron).
