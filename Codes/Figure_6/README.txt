@@ -14,3 +14,4 @@ Figure 6K
 
 Summary: Spatial extent of each ROI used in Panels G-J.
 
+Final visualizations are made with MRIcron (https://www.nitrc.org/projects/mricron).
