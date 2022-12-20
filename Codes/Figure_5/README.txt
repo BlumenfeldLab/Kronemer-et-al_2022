@@ -12,3 +12,5 @@ Figure 5E and F
 
 Summary:
 This result shows the conjunction of dissimilar regions from the following analyses: No-report vs pupil sorted, no-report vs blink sorted, and no-report vs microsaccade sorted.
+
+Final visualizations are made with MRIcron (https://www.nitrc.org/projects/mricron).
